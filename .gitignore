@@ -1,0 +1,11 @@
+node_modules/
+npm-debug.log*
+logs/*.txt
+!logs/.gitkeep
+ngrok_url.txt
+.ngrok2/
+.env
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
