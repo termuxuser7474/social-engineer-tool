@@ -21,7 +21,7 @@ A demonstration tool showing how social engineering attacks can capture basic de
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/social-engineer-tool.git
+git clone https://github.com/termuxuser7474/social-engineer-tool.git
 cd social-engineer-tool
 
 # Run installation script
